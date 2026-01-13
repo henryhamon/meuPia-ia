@@ -1,0 +1,5 @@
+scikit-learn
+pandas
+numpy
+joblib
+git+https://github.com/henryhamon/meuPia-core.git#egg=meupia-core
